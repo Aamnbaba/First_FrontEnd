@@ -62,11 +62,6 @@ p.cont-para {
   }
 }
 
-a {
-  text-decoration: none;
-  color: black;
-}
-
 .attribution {
   color: hsl(218, 44%, 22%);
 }
