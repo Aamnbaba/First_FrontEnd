@@ -76,7 +76,8 @@ p.cont-para {
 
 @media (width <= 375px) {
   html {
-    font-size: 50%;
+    font-size: 40%;
   }
 }
+
 /***** End Media Query Section *****/
